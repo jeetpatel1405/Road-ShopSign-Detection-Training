@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShopSignDetection</string>
+    <string name="detect_text">Detect Text</string>
+    <string name="stop_detecting_text">Stop Detecting Text</string>
+</resources>
